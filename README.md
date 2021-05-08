@@ -1,2 +1,2 @@
 # Spring-Boot-Redis-POC
-Spring Boot Rabbit MQ POC
+Proof of Concept / Demo Code for implementing Redis as cache using Spring Boot
